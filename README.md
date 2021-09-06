@@ -10,7 +10,7 @@ for applicational example.
 
 The breakdown of features we have derived is as follows:
 
-![Image not found](Resources/pie_SDF_Features.png "SDF Pie")
+![Image not found](Resources/pie_SDF_Features.svg "SDF Pie")
 
 A majority of features are derived from mRNA transcripts taken
 from NCBI; of which a majority of mono and dinucleotide counts. 
