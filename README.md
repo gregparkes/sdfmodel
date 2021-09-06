@@ -70,7 +70,7 @@ to get parts-per-million (PPM).
 
 ## Requirements
 
-This project is written in [Python](https://www.python.org/). We recommend you install the appropriate
+This project is written in [Python](https://www.python.org/). For tutorials on learning Python as a programming language see other works in [this repository](https://github.com/gregparkes/PythonTeaching). We recommend you install the appropriate
 [Anaconda distribution](https://www.anaconda.org) for your operating system. 
 Then install the following packages:
 
